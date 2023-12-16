@@ -14,5 +14,6 @@ How has your approach to developing code evolved throughout the milestones, whic
   At first my project was a mess, I was confused about a lot of the organization and while I could eventually get it to work, it was a mess and difficult to interpret. It        eventually got to the point where i needed to stop, reassess, and reorganize my entire project. Doing this made it much more readable and more importantly much easier to       understand.
 How can computer science help me in reaching my goals?
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-  
+  Computational graphics and visualizations gives me the knowledge to be able to add a bit of pizazz to future applications by creating visuals to add character and depth to     future applications.
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+  Honestly, I'm not sure where my professional pathway is leading right now. I don't know where I want to take it, but it none the less adds to my repatoire which gives me       more potential options for paths to take.
